@@ -12,3 +12,8 @@
 .contact ul li a i:hover{
     color: #353225;
 }
+.contactrowstyle{
+    padding-top: 10px;
+    justify-content: center;
+}
+/* Path: assets/css/oncss.css */

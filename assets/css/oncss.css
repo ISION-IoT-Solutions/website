@@ -6,10 +6,10 @@
     -ms-transition: all 1s ease;
     transition: all 1s ease;
 }
-.contact ul li a i{
+ul li a i{
     color: black;
 }
-.contact ul li a i:hover{
+ul li a i:hover{
     color: #353225;
 }
 .contactrowstyle{
@@ -17,3 +17,48 @@
     justify-content: center;
 }
 /* Path: assets/css/oncss.css */
+.content-center {
+    display: flex;
+    justify-content: center;
+}
+.text-center {
+    text-align: center!important;
+}
+li {
+    list-style: none;
+}
+
+
+.ourpartners{padding-bottom: 15px;}
+.partnersection{padding-top: 50px;margin-bottom: -40px;}
+
+footer {
+    background-color: #8D8A8F;
+    color: #3b3b3b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    font-family: 'Open Sans', sans-serif;
+}
+footer a {
+    color: #3b3b3b;
+}
+footer a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.fa {
+    color: #3b3b3b;
+}
+.fa:hover {
+    color: #fff;
+}
+.centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
